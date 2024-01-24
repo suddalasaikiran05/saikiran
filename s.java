@@ -1,4 +1,4 @@
-class Hi
+class hello
 {
   public static void main(String args[])
    {
@@ -11,7 +11,6 @@ class Hi
        b=d;
       }
 
-   
          if(b>c) 
        {
         d=b;
@@ -19,7 +18,7 @@ class Hi
         c=d; 
          
       }
-         if (a>c)
+         if(a>c)
        {
          d=c;
          c=b;
