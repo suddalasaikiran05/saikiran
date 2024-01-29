@@ -2,7 +2,7 @@ class nithin
 {
   public static void main(String args[])
    {
-      int a=50,b=10,c=20,d=5;
+      int a=50,b=10,c=20,d=6;
      
       if(a>b) 
       {
